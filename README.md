@@ -1,5 +1,5 @@
 # SiteSimplesResposivo
-Project made with HTML5 and CSS3 by youtube.com/watch?v=PuyZAUyZYDI
+Project made with HTML5 and CSS3 based on youtube.com/watch?v=PuyZAUyZYDI
 
 This is my first front-end project. It's a website containing informations of an IT event, where people are talking about the IT world and selling their products and projects.
 
